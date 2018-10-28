@@ -29,7 +29,7 @@ I want to make a really cool project, but I don't know what to make. So I'll jus
 every Pull Request submitted and see what happens.
 
 ## Rules
-
+ * Nothing Offending
  * No porn.
  * Nothing illegal.
  * Can't violate GitHub terms of service.
